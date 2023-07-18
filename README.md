@@ -11,5 +11,6 @@ opencv-contrib-python==4.8.0.74 <br/>
 opencv-python==4.8.0.74 <br/>
 pandas==1.1.5 <br/>
 protobuf==3.19.4 : medyo fucked yung installation neto <br/>
+queuelib==1.6.2 <br/>
 tensorflow==2.10.0 <br/>
 tflite==2.10.0 <br/>
