@@ -2,7 +2,7 @@
 
 ### Libraries:
 
-keras==2.10.0
+keras==2.10.0 <br/>
 matplotlib==3.6.0
 matplotlib-inline==0.1.6
 mediapipe==0.10.1
