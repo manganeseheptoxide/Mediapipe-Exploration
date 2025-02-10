@@ -1,4 +1,4 @@
-# ASL-to-and-from-Speech
+# Mediapipe Shenanigans
 
 ### Libraries:
 
