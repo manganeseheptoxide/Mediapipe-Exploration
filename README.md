@@ -1,6 +1,8 @@
 # Mediapipe Shenanigans
 
-### Libraries:
+python 3.8.10
+
+### Libraries (not all are used):
 
 keras==2.10.0 <br/>
 matplotlib==3.6.0 <br/>
