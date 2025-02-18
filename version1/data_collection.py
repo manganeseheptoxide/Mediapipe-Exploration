@@ -27,7 +27,7 @@ def add_df_entry(df: pd.DataFrame = pd.DataFrame(), entry: list = []):
     if entry:
 
         if not len(df.columns) == len(entry)*3:
-            raise ValueError('The number of landmarks in the dataframe and entry is not equal you fuckwit')
+            raise ValueError('The number of landmarks in the dataframe and entry is not equal')
 
         if df.empty:
             df.loc[1] = None
